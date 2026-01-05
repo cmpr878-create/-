@@ -1,0 +1,8 @@
+{
+  "name": "Samity Management System",
+  "description": "A comprehensive Bengali-language cooperative society management application with Admin and User panels to track savings, notices, and activities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
